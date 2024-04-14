@@ -13,29 +13,12 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/moham/eclipse-workspace/Proxy/lib/gson-2.8.9.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/moham/eclipse-workspace/Proxy/lib/jakarta.servlet-api-5.0.0 (1).jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/moham/eclipse-workspace/Proxy/lib/javax.servlet-api-4.0.1-javadoc.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/moham/eclipse-workspace/Proxy/lib/javax.servlet-api-3.0.1-javadoc.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/moham/eclipse-workspace/Proxy/lib/servlet-api-6.0.20.jar"/>
-	<classpathentry kind="lib" path="C:/Users/moham/eclipse-workspace/Proxy/lib/javax.servlet-api-3.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/moham/OneDrive/Desktop/jars/mysql-connector-java-8.0.21/mysql-connector-java-8.0.21.jar"/>
 	<classpathentry kind="lib" path="C:/Users/moham/OneDrive/Desktop/jars/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/OneDrive/Desktop/jars/gson-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/OneDrive/Desktop/jars/jakarta.servlet-api-5.0.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/OneDrive/Desktop/jars/javax.servlet-api-4.0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/OneDrive/Desktop/jars/servlet-api-6.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/moham/OneDrive/Desktop/jars/javax.servlet-api-3.1.0 (1).jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
